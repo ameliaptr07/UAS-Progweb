@@ -12,7 +12,7 @@
             <div class="logo"><a href=''>Sanggar Minat</a></div>
             <div class="menu">
                 <ul>
-                    <li><a href="interface.php">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="pengurus.php">Pengurus</a></li>
                     <li><a href="anggota.php">Anggota Aktif</a></li>
                     <li><a href="pameran.php">Pameran</a></li>
