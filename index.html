@@ -13,10 +13,10 @@
             <div class="menu">
                 <ul>
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="pengurus.html">Pengurus</a></li>
-                    <li><a href="anggota.html">Anggota Aktif</a></li>
-                    <li><a href="pameran.html">Pameran</a></li>
-                    <li><a href="kegiatan.html">Kegiatan</a></li>
+                    <li><a href="pengurus.php">Pengurus</a></li>
+                    <li><a href="anggota.php">Anggota Aktif</a></li>
+                    <li><a href="pameran.php">Pameran</a></li>
+                    <li><a href="kegiatan.php">Kegiatan</a></li>
                 </ul>
             </div>
         </div>
